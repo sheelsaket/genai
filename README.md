@@ -1,5 +1,3 @@
-# FILE: /plaid-dashboard-app/plaid-dashboard-app/README.md
-
 # Plaid Dashboard App
 
 This project is a web application that integrates with the Plaid API to pull data from different bank accounts, sync transactions, and generate a spending dashboard. It includes features such as trend analysis of spending per day of the month, a list of all transactions sorted by date, and net worth calculation.
